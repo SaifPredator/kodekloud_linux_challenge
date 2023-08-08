@@ -1,0 +1,2 @@
+To change the default runlevel on a Linux system so that it boots into the GUI (graphical user interface) by default, follow these steps:
+sudo systemctl set-default graphical.target
